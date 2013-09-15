@@ -4,10 +4,14 @@
 	margin: auto;
 }
 h2{
-	background-color:green; 
-	text-align: center;
+	background-color:#00cc00; 
+	text-align:center;
 }
 h1{
 	text-align: center; 
 	background-color:#ccccaa;
+}
+p{
+	text-align:left;
+	text-indent: 30px;
 }
