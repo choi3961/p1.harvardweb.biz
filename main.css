@@ -1,1 +1,3 @@
-div {display:block;}
+.container{background-color:#99ff77; width:500px; }
+h2{background-color:green; text-align: center}
+h1{text-align: center; background-color:#ccccaa}
