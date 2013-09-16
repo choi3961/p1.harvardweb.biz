@@ -9,15 +9,15 @@ p1.harvardweb.biz
 
 Contents
 --------
-1.The file manifest.
-2.Changelogs.
+* The file manifest.
+* Changelogs.
 
 ******************************************************************
 
 The file manifest
 -----------------
-1.index.php : main page for the project1 introducing myself.
-2.main.css : stylesheet file for index.php.
+* index.php : main page for the project1 introducing myself.
+* main.css : stylesheet file for index.php.
 
 
 ******************************************************************
