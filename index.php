@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<title>
-			Projec1 for the Dynamic Web 
+			Project1 for the Dynamic Web 
 		</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="main.css">
@@ -19,7 +19,7 @@
 
 			<!-- Introducing my name. -->
 			<h2>My name</h2>
-			<p>Hello, my name is Jae-Kyu Choi</p>
+			<p>Hello, my name is Jae-Kyu Choi.</p>
 
 			<!-- Introducing my simple bio. -->
 			<h2>My information</h2>
@@ -29,7 +29,7 @@
 
 			<!-- The editor I am using. -->
 			<h2>My editor</h2>
-			<p>I am currently using Sublime Text2</p>
+			<p>I am currently using Sublime Text2.</p>
 		</div>
 	</body>
 </html>
