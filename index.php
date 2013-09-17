@@ -24,7 +24,13 @@
 			<!-- Introducing my simple bio. -->
 			<h2>My information</h2>
 			<p>
-				I live in South Korea. I am running an institute.
+				I live in South Korea. I am running an institute.<br>
+			</p>
+			<p>
+				I like mountain climbing, so I go climbing mountain every weekend.
+			</p>
+			<p>
+				This course of dynamic web will be very helpful for my next business.
 			</p>
 
 			<!-- The editor I am using. -->
