@@ -19,7 +19,7 @@
 
 			<!-- Introducing my name. -->
 			<h2>My name</h2>
-			<p>Hello, my name is Jae-Kyu Choi.</p>
+			<p>Hello! my name is Jae-Kyu Choi.</p>
 
 			<!-- Introducing my simple bio. -->
 			<h2>My information</h2>
